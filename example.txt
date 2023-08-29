@@ -1,1 +1,1 @@
-printf(hlo)
+print(hello)
